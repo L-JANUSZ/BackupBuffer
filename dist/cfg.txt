@@ -1,0 +1,2 @@
+Number of files = "parówka"
+Path: "C:\Users\Luke\Documents\testdir"
