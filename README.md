@@ -112,7 +112,7 @@ All operations are logged to `Memory_saver.log` in the same directory as the pro
 
 ## License
 
-This project is available for use under standard open source practices.
+No license specified. Please contact the author for usage rights and permissions.
 
 ## Author
 
