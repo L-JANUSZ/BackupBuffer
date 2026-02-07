@@ -137,14 +137,14 @@ if __name__ == "__main__":
             print(f"Konfiguracja wczytana:")
             print(f"  - Liczba plików do pozostawienia: {liczba_plikow}")
             print(f"  - Ścieżka folderu: {sciezka_folderu}\n")
-            logging.info(f"Konfiguracja załadowana: {liczba_plikow} plików, folder: {sciezka_folderu}")
+            logging.info(f"Konfiguracja zaladowana: {liczba_plikow} plikow, folder: {sciezka_folderu}")
             
             usun_najstarsze_pliki(sciezka_folderu, liczba_plikow)
-            logging.info("Program zakończył się pomyślnie")
+            logging.info("Program zakonczyl sie pomyslnie")
         else:
             # Pokaż konsolę tylko gdy załadowanie konfiguracji się nie powiodło
             pokaz_konsole()
-            komunikat = "Nie udało się wczytać konfiguracji."
+            komunikat = "Nie udalo sie wczytac konfiguracji."
             print(komunikat)
             logging.error(komunikat)
             input("\nNaciśnij Enter, aby zamknąć...")

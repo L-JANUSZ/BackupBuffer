@@ -1,2 +1,3 @@
-Number of files = "parówka"
+Number of files = "5"
 Path: "C:\Users\Luke\Documents\testdir"
+# WARNING: Do not modify text outside of quoted strings

@@ -1,0 +1,15 @@
+
+2026-02-07 08:54:04,758 - INFO - Program uruchomiony
+2026-02-07 08:54:04,761 - INFO - Konfiguracja za³adowana: 5 plików, folder: C:\Users\Luke\Documents\testdir
+2026-02-07 08:54:04,766 - INFO - Program zakoñczy³ siê pomyœlnie
+2026-02-07 08:59:05,341 - INFO - Program uruchomiony
+2026-02-07 08:59:05,360 - INFO - Konfiguracja zaladowana: 4 plikow, folder: C:\Users\Luke\Documents\testdir
+2026-02-07 08:59:05,365 - INFO - Program zakonczyl sie pomyslnie
+2026-02-07 10:01:04,815 - INFO - Program uruchomiony
+2026-02-07 10:01:04,817 - INFO - Konfiguracja zaladowana: 4 plikow, folder: C:\Users\Luke\Documents\testdir
+2026-02-07 10:01:04,818 - INFO - Program zakonczyl sie pomyslnie
+2026-02-07 10:10:01,187 - INFO - Program uruchomiony
+2026-02-07 10:10:01,190 - INFO - Konfiguracja zaladowana: 4 plikow, folder: C:\Users\Luke\Documents\testdir
+2026-02-07 10:10:01,191 - INFO - Program zakonczyl sie pomyslnie
+2026-02-07 10:10:36,932 - INFO - Program uruchomiony
+2026-02-07 10:10:36,952 - ERROR - Nie udalo sie wczytac konfiguracji.
