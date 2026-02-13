@@ -1,2 +1,2 @@
-Number of files = "4"
+Number of files = "5"
 Path: "C:\Users\Luke\Documents\testdir"
