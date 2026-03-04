@@ -1,0 +1,4 @@
+Number of files = "2"
+Origin path: "C:\Users\Luke\Documents\testdir"
+Destination path: "C:\Users\Luke\Documents\testdir\destination"
+# WARNING: Do not modify text outside of quoted strings
